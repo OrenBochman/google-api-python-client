@@ -11,3 +11,8 @@ dist/
 .coverage
 coverage.xml
 nosetests.xml
+samples/analytics/client_secrets.json
+samples/analytics/keyfile.json
+samples/analytics/fnx-car-dashboard-8ba758ff4a39.json
+samples/analytics/client_secrets.json
+samples/analytics/analytics.dat
